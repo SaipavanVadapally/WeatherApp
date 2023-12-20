@@ -14,7 +14,8 @@
 
 This code demonstrates the basic structure of a web application that interacts with an API to fetch and display data dynamically based on user input. It's a great starting point for understanding asynchronous JavaScript, API interactions, and DOM manipulation.
 
-
+link for live demo
+https://main--coruscating-clafoutis-059464.netlify.app/
 
 
 
