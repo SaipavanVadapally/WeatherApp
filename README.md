@@ -1,4 +1,4 @@
--> Weather App for fetching weather details with repect to cities
+-> Weather App for fetching weather details with respect to cities
 
 🚀API Key: The apikey property holds the API key for authentication with the OpenWeatherMap API.
 
